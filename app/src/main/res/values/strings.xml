@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">DementiaApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="next">Spremi</string>
+    <string name="surname">Prezime</string>
+    <string name="name">Ime</string>
+    <string name="date_of_birth">Datum rođenja</string>
+    <string name="get_location">LOCIRAJ ME</string>
+    <string name="service_not_available">Servis nije dostupan</string>
+    <string name="invalid_lat_long_used">Geografska dužina ili visina nisu ispravno zadane</string>
+    <string name="no_address_found">Nije pronađena niti jedna adresa</string>
+    <string name="address_found">Adresa pronađena</string>
+    <string name="no_geocoder_available">Geokoder nije prisutan</string>
+    <string name="phone">Telefon</string>
+    <string name="address">Adresa</string>
+    <string name="nameData">Vaše ime :</string>
+    <string name="surnameData">Vaše prezime :</string>
+    <string name="addressData">Vaša adresa :</string>
+    <string name="currentLocation">Vaša trenutna lokacija :</string>
+    <string name="contact_number">Kontakt broj</string>
+    <string name="title_activity_settings">Postavke</string>
+
+
+    <string name="action_settings">Postavke</string>
+
+    <string name="title_activity_launching">LounchingActivity</string>
+    <string name="send_button">Pošalji</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_send_message">SendMessageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Obavjesti</string>
+    <string name="message_text_hint"><i>Ovdje unesite tekst poruke. Na kraj svake poruke automatski se dodaje vaša trenutna lokacija.</i></string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Općenito</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Podaci i sinkronizacija</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Poruke</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="allow_sending">Dozvoli slanje</string>
+    <string name="allow_sending_summary">Dozvoli slanje poruka prilikom pritiska na gumb \"Dohvati lokaciju\"</string>
+    <string name="pref_header_about">O aplikaciji</string>
+    <string name="app_version">1.0</string>
+    <string name="title_version">Verzija</string>
+    <string name="title_send_feedback">Povratna informacija</string>
+    <string name="summary_support">Imate pitsnja? Rado ćemo pomoći!</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="title_faq">FAQ</string>
+    <string name="summary_faq">Pogledajte često postavljena pitanja</string>
+    <string name="url_faq">https://alzheimer.hr/ucionica/kako-zivjeti-s-oboljelim-od-alzheimerove-bolesti/</string>
+    <string name="privacy_policy">Privatnost</string>
+    <string name="url_privacy">http://www.ict-aac.hr/index.php/en/privacy-policy</string>
+    <string name="title_terms">Uvjeti korištenja</string>
+    <string name="url_terms">http://www.ict-aac.hr/index.php/hr/</string>
+    <string name="summary_about">Aplikacija za pomoć osobama oboljelih od demencije. Pomaže osobama koje prolaze kroz faze nada panike i dezorijentacije.</string>
+    <string name="pref_title_notifications">Poruke</string>
+    <string name="key_send_message">key_send_message</string>
+    <string name="title_message_allowed">Slanje</string>
+    <string name="key_text">key_text</string>
+    <string name="message_text">Promjeni sadržaj poruke kod slanja pritiskom na gumb \"Dohvati lokaciju\". Na kraj poruke dodaje se Vaša trenutna lokacija.</string>
+    <string name="message_title">Sadržaj</string>
+    <string name="key_location">key_location</string>
+    <string name="location_summery">Dozvolite pristup Vašoj lokaciji osobama kojima ste za to dali ovlasti.</string>
+    <string name="location_title">Pristup lokaciji</string>
+    <string name="choose_email_client">Odaberite email klijenta</string>
+    <string name="delete">Izbriši</string>
+    <string name="saveData">Spremi</string>
+    <string name="contacts_label">Kontakti</string>
+    <string name="title_activity_personal_info">PersonalInfoActivity</string>
+</resources>

@@ -1,0 +1,24 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="pref_message"
+        android:title="@string/allow_sending"
+        android:summary="@string/allow_sending_summary"/>
+
+
+    <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+    <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+    <EditTextPreference
+        android:capitalize="words"
+        android:inputType="textMultiLine"
+        android:key="message_text"
+        android:maxLines="8"
+        android:selectAllOnFocus="true"
+        android:singleLine="false"
+        android:title="Tekst poruke"
+        android:summary="Promjeni tekst poruke prilikom automatskog slanja"/>
+
+
+
+</PreferenceScreen>

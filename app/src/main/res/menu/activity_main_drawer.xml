@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/action_main"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Podesi">
+            <menu>
+                <item
+                    android:id="@+id/personal_data"
+                    android:icon="@drawable/ic_menu_info"
+                    android:title="Osobni podaci" />
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/ic_menu_contact"
+                    android:title="Kontakti" />
+                <!--
+                        <item
+                            android:id="@+id/nav_set"
+                            android:icon="@drawable/ic_menu_manage"
+                            android:title="Podesi" />
+                            -->
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Komunikacija">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Šalji" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Postavke" />
+    <!--
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="Pomoć" />
+        -->
+
+
+</menu>
