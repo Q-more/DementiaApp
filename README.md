@@ -24,7 +24,7 @@ obavještava korisnika o pogrešci.
 
 Slika 6.1: Sučelje za popunjavanje osobnih podataka          |  
 :-------------------------:|
-<img src="/uploads/40806bb00dbcc4d9a509d9efeed6f919/pocetna_unos.png" width="300" height="500" /> | 
+<img src="/resources/pocetna_unos.png" width="300" height="500" /> | 
 
 Nakon unosa ispravnih podataka na ekranu se prikazuje veliki crveni gumb s natpisom LOCIRAJ ME, mali žuti gumb sa slikom omotnice te u gornjem lijevom kutu
 ikona za ulaz u izbornik 6.3.
@@ -39,7 +39,7 @@ aplikacija nema dozvolu slanja poruka ili ako niti jedan kontakt nije dodan na p
 
 6.2: Sučelje za prikaz lokacije             | 6.3: Glavno korisničko sučelje          | 6.4: Sučelje za slanje poruka                         |
 :-------------------------:|:-------------------------:|:-------------------------:|
-![dohvacena_lokacija](/uploads/83527b05aa41425eddf213b115c70165/dohvacena_lokacija.png)  |  ![pocetna](/uploads/ca0d1ad6adf6b342145b95c91edc21b9/pocetna.png) |  ![slanje_poruke_ekran](/uploads/6cb18024b62c9eb5742a56abcb58c321/slanje_poruke_ekran.png)                         |
+![dohvacena_lokacija](/resources/dohvacena_lokacija.png)  |  ![pocetna](/resources/pocetna.png) |  ![slanje_poruke_ekran](/uploads/6cb18024b62c9eb5742a56abcb58c321/slanje_poruke_ekran.png)                         |
 
 Pritiskom na gumb za izbornik ili prolaskom prsta s lijeva na desno po ekranu
 ured̄aja otvara se glavni izbornik aplikacije. U gornjem lijevom kutu navedeni su ime,
@@ -48,7 +48,7 @@ Kontakti, Šalji, Postavke.
 
 Slika 6.5: Sučelje izbornika            |  Slika 6.6: Sučelje promjena osobnih podataka         |  
 :-------------------------:|:-------------------------:|
-<img src="/uploads/50a50140f86128e13271a278a4a49140/izbrnika.png" width="300" height="500" /> |<img src="/uploads/06e4da5741ccba8e62bd220b3f387322/promjena_podataka.png" width="300" height="500" />|  
+<img src="/resources/izbrnika.png" width="300" height="500" /> |<img src="/resources/promjena_podataka.png" width="300" height="500" />|  
 
 U Osobnim podacima moguće je napraviti izmjenu podataka otvarajući prikaz koji
 je bio prikazan prilikom prvog pokretanja aplikacije 6.6. Jedina razlika se očituje
@@ -62,7 +62,7 @@ aplikacije 6.7.
 
 Slika 6.7: Sučelje za prikaz dodanih kontakata            |  Slika 6.8: Brisanje kontakata          |  Slika 6.9: Vračanje izbrisanog kontakta u listu
 :-------------------------:|:-------------------------:|:-------------------------:
-![kontakti_item](/uploads/41d3084d6268aeb8da629505438508d1/kontakti_item.png) |  ![izbrisi](/uploads/d1014291ed1287b2763b658e1189bb9e/izbrisi.png) |  ![kontakti_undu](/uploads/3c182413533cf3657e47b9f83c80dc87/kontakti_undu.png)
+![kontakti_item](/resources/kontakti_item.png) |  ![izbrisi](/resources/izbrisi.png) |  ![kontakti_undu](/resources/kontakti_undu.png)
 
 Kontakti se mogu izbrisati s popisa prolaskom prsta po ekranu s lijeva prema desno
 iznad odabranog kontakta 6.8. Nakon što je kontakt uklonjen s popisa na dnu ekrana,
@@ -77,7 +77,7 @@ promjena zanemaruju ako se pritisne gumb CANCEL ili ako se pritisne izvan samog 
 
 Slika 6.10: Slanje poruka omogućeno          |  Slika 6.11: Slanje poruka onemogućeno          |  Slika 6.12: Promjena sadržaja poruke
 :-------------------------:|:-------------------------:|:-------------------------:
-![postavke](/uploads/2be0dae1385453cf0b42f3ec98f45fe6/postavke.png)  |  ![postavke_sadrzaj](/uploads/97a90e0613776c6012eb7cbfe25c8fb7/postavke_sadrzaj.png) | ![postavke_sadrzaj](/uploads/97a90e0613776c6012eb7cbfe25c8fb7/postavke_sadrzaj.png)
+![postavke](/resources/postavke.png)  |  ![postavke_sadrzaj](/resources/postavke_sadrzaj.png) | ![postavke_sadrzaj](/resources/postavke_sadrzaj.png)
 
 
 ### Dozvole
@@ -91,7 +91,7 @@ omogućiti ili ne omogućiti bilo koju od navedenih dozvola u postavkama telefon
 
 Slika 6.13: Sučelje za dozvolu pristupa lokaciji        |  Slika 6.14: Sučelje za dozvolu pristupa kontaktima          | Slika 6.15: Sučelje za dozvolu slanja poruka
 :-------------------------:|:-------------------------:|:-------------------------:
-![dozvola_lokacija](/uploads/afb11e2ec22750eaf776fb3c9f824d43/dozvola_lokacija.png)  |  ![dozvola_kontakti](/uploads/44b783ec86e6650b57f3cee0cf6a2d8d/dozvola_kontakti.png) | ![dozvola_poruke](/uploads/61388502796b105aac0a6d030c172fa4/dozvola_poruke.png)
+![dozvola_lokacija](/resources/dozvola_lokacija.png)  |  ![dozvola_kontakti](/resources/dozvola_kontakti.png) | ![dozvola_poruke](/resources/dozvola_poruke.png)
 
 ## Aplikacija za pametni sat
 Wear aplikacija za pametni sat zahtjeva minimalnu verziju Android 7.1.1 operacijskog
@@ -109,5 +109,5 @@ povratak na početni ekran potrebno je povući prstom po ekranu s desna na lijev
 
 Slika 6.16: Gumb za dohvat lokacije           |  Slika 6.17: Sučelje za prikaz lokacije         |  
 :-------------------------:|:-------------------------:|
-![sat_gumb](/uploads/a26083f37eee142dbad21699186dbaa5/sat_gumb.png) |![sat_tekst](/uploads/12ec334447d200c865a0b9f6c7957797/sat_tekst.png)|  
+![sat_gumb](/resources/sat_gumb.png) |![sat_tekst](/resources/sat_tekst.png)|  
 
