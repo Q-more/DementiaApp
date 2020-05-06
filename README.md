@@ -39,7 +39,7 @@ aplikacija nema dozvolu slanja poruka ili ako niti jedan kontakt nije dodan na p
 
 6.2: Sučelje za prikaz lokacije             | 6.3: Glavno korisničko sučelje          | 6.4: Sučelje za slanje poruka                         |
 :-------------------------:|:-------------------------:|:-------------------------:|
-![dohvacena_lokacija](/resources/dohvacena_lokacija.png)  |  ![pocetna](/resources/pocetna.png) |  ![slanje_poruke_ekran](/uploads/6cb18024b62c9eb5742a56abcb58c321/slanje_poruke_ekran.png)                         |
+![dohvacena_lokacija](/resources/dohvacena_lokacija.png)  |  ![pocetna](/resources/pocetna.png) |  ![slanje_poruke_ekran](/resources/slanje_poruke_ekran.png)                         |
 
 Pritiskom na gumb za izbornik ili prolaskom prsta s lijeva na desno po ekranu
 ured̄aja otvara se glavni izbornik aplikacije. U gornjem lijevom kutu navedeni su ime,
